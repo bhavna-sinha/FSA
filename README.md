@@ -29,9 +29,7 @@ The workflow is divided into the following steps:
 - Predict **PD, LGD, and EAD** using the trained models.
 - Compute the **Expected Loss (EL)** using the formula:
 
-  \[
-  \text{Expected Loss (EL)} = PD \times LGD \times EAD
-  \]
+Expected Loss (EL) = PD × LGD × EAD
 
 ### 5️⃣ Visualization
 - Plot **actual vs. predicted values** for the test set to evaluate model performance.
